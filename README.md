@@ -1,2 +1,2 @@
 # CSharpCalculator
- Simple calculator made with C#. More practise and fun project.
+ Simple calculator made with C#. More of a practise and fun project.
